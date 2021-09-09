@@ -1,4 +1,4 @@
-Welcome to Rittmeyers documentation!
+Welcome to Rittmeyer documentation!
 ===================================
 
 Check out the :doc:`usage` section for further information, including
