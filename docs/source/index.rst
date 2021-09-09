@@ -6,9 +6,10 @@ Willkommen zum RITUNE Benutzerhandbuch
 
    Dieses Projekt befindet sich derzeit in der Entwicklung
 
-Contents
+Inhalt
 --------
 
 .. toctree::
-
-   modules/phone-alert/phone-alert
+   :maxdepth: 2
+   
+   Module <modules/index>
