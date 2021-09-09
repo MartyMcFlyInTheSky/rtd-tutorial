@@ -11,5 +11,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   phone-alert
