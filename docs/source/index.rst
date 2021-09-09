@@ -11,4 +11,4 @@ Contents
 
 .. toctree::
 
-   phone-alert
+   modules/phone-alert/phone-alert
