@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'RITUNE Benutzerhandbuch'
+copyright = '2021, Rittmeyer AG'
+author = 'Samuel Beer'
 
 release = '0.1'
 version = '0.1.0'

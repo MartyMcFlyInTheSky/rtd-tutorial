@@ -1,12 +1,10 @@
-Welcome to Rittmeyer documentation!
-===================================
+Willkommen zum RITUNE Benutzerhandbuch
+======================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Dieses Projekt befindet sich derzeit in der Entwicklung
 
 Contents
 --------
