@@ -4,13 +4,13 @@ SMS- und Telefonalarm
 Wie richte ich einen SMS- / Telefonalarm ein?
 *********************************************
  
-.. image:: /res/modules/phone_alert/1.png
+.. image:: 1.png
 
 #. Wählen Sie im RITUNE Menü den Eintrag «Objekte» und lassen Sie sich die Module anzei-gen
 #. Scrollen sie in der Modulliste ggf. nach unten um den Eintrag «SMS- und Telefonalarme» zu finden. Klicken sie darauf.
 #. Klicken sie auf das «Plus»-Icon in der oberen linken Ecke des Modulfensters. Es erscheint eine Maske zur Konfiguration des Alarms.
 
-.. image:: /res/modules/phone_alert/2.png
+.. image:: 2.png
 
 4. Titel: Geben sie hier einen passenden Namen für den SMS-/Telefonalarm ein. Damit er-scheint er später in der Liste.
 #. Verbundene Alarme: Wählen sie durch einen Klick auf die quadratische Checkbox alle Alarme aus, für die Sie Benachrichtigungen erhalten möchten.

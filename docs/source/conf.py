@@ -27,7 +27,11 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+language = 'de'
+
 # -- Options for HTML output
+
+html_logo = 'RITUNE.png'
 
 html_theme = 'sphinx_rtd_theme'
 
